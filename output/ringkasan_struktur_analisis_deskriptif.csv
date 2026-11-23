@@ -1,0 +1,9 @@
+Metrik,Nilai
+Sumber data,data_wilayah hasil cleaning yang sudah ada
+Baris sumber berkecamatan,520077
+Baris periode 2021-2025,520077
+Tahun tersedia,"2021, 2022, 2023, 2024, 2025"
+Jumlah sektor KBLI 2 digit,83
+Jumlah kecamatan,31
+Kombinasi Id Proyek-tahun-sektor-kecamatan unik,520051
+Baris berulang pada kombinasi tersebut,26
